@@ -117,6 +117,8 @@ int main(){
         glfwSwapBuffers(window);//交换颜色缓冲
         glfwPollEvents();//触发键盘鼠标事件，更新窗口状态
     }
+    glDeleteVertexArrays(1, &VAO);
+    glDeleteBuffers(1, &VBO);
     // 清除所有之前分配的glfw资源
     glfwTerminate();
 
