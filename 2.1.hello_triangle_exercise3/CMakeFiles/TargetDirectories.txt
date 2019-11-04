@@ -1,0 +1,5 @@
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/2.1.hello_triangle_exercise3/CMakeFiles/rebuild_cache.dir
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/2.1.hello_triangle_exercise3/CMakeFiles/edit_cache.dir
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/2.1.hello_triangle_exercise3/CMakeFiles/main.dir
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/2.1.hello_triangle_exercise3/CMakeFiles/GLAD.dir
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/2.1.hello_triangle_exercise3/CMakeFiles/STB_IMAGE.dir
