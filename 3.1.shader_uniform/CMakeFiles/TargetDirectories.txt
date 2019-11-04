@@ -1,0 +1,5 @@
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.1.shader_uniform/CMakeFiles/rebuild_cache.dir
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.1.shader_uniform/CMakeFiles/edit_cache.dir
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.1.shader_uniform/CMakeFiles/main.dir
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.1.shader_uniform/CMakeFiles/GLAD.dir
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.1.shader_uniform/CMakeFiles/STB_IMAGE.dir
