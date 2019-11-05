@@ -13,6 +13,8 @@ GLFW/glfw3.h
 -
 iostream
 -
+cmath
+-
 
 includes/GLFW/glfw3.h
 stddef.h
