@@ -1,0 +1,5 @@
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation/CMakeFiles/rebuild_cache.dir
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation/CMakeFiles/edit_cache.dir
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation/CMakeFiles/main.dir
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation/CMakeFiles/GLAD.dir
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation/CMakeFiles/STB_IMAGE.dir

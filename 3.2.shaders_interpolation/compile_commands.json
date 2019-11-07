@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/System/Library/Frameworks -I/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation/configuration -I/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation/includes  -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/main.dir/src/main.cpp.o -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation/src/main.cpp",
+  "file": "/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation/src/main.cpp"
+},
+{
+  "directory": "/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/System/Library/Frameworks -I/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation/configuration -I/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation/includes  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/GLAD.dir/src/glad.c.o   -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation/src/glad.c",
+  "file": "/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation/src/glad.c"
+},
+{
+  "directory": "/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/System/Library/Frameworks -I/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation/configuration -I/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation/includes  -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/STB_IMAGE.dir/src/stb_image.cpp.o -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation/src/stb_image.cpp",
+  "file": "/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/3.2.shaders_interpolation/src/stb_image.cpp"
+}
+]
