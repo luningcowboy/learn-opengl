@@ -16,3 +16,18 @@ make
 ./main
 ```
 只要运行这个脚本，自动编译运行。
+完成情况:
+
+| 内容 | 完成情况 |
+|------|----------|
+| base_project | ✅ |
+| 1.1.hello_window | ✅ |
+| 1.2.hello_window_clear | ✅ |
+|2.1.hello_rectangle| ✅ |
+|2.1.hello_triangle| ✅ |
+|2.1.hello_triangle_exercise1| ✅ |
+|2.1.hello_triangle_exercise2| ✅ |
+|2.1.hello_triangle_exercise3| ✅ |
+|3.1.shader_uniform| ✅ |
+|3.2.shaders_interpolation| ✅ |
+
