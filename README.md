@@ -30,4 +30,5 @@ make
 |2.1.hello_triangle_exercise3| ✅ |
 |3.1.shader_uniform| ✅ |
 |3.2.shaders_interpolation| ✅ |
+|3.3.shader_class| ✅ |
 
