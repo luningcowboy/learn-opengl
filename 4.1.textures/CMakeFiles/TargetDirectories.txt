@@ -1,0 +1,5 @@
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.1.textures/CMakeFiles/rebuild_cache.dir
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.1.textures/CMakeFiles/edit_cache.dir
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.1.textures/CMakeFiles/main.dir
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.1.textures/CMakeFiles/GLAD.dir
+/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.1.textures/CMakeFiles/STB_IMAGE.dir

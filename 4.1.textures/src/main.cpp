@@ -77,17 +77,44 @@ int main(){
     glEnableVertexAttribArray(2);
 
     unsigned int texture;
+    glGenTextures(1, &texture);
+    glBindTexture(GL_TEXTURE_2D, texture);
+    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_REPEAT);
+    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_REPEAT);
+    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR);
+    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
 
-    
+    int width, height, nrChannels;
+    //unsigned char *data = stbi_load(FileSystem::getPath("../resources/texture/container.jpg"), &width, &height, &nrChannels, 0);
+     unsigned char *data = stbi_load(FileSystem::getPath("../resources/textures/container.jpg").c_str(), &width, &height, &nrChannels, 0);
+
+    if(data){
+        glTexImage2D(GL_TEXTURE_2D, 0, GL_RGB, width, height, 0, GL_RGB, GL_UNSIGNED_BYTE, data);
+        glGenerateMipmap(GL_TEXTURE_2D);
+    }
+    else{
+        std::cout<<"Failed to load texture"<<std::endl;
+    }
+    stbi_image_free(data);
 
     // render loop
     while(!glfwWindowShouldClose(window)){//检测GLFW是否收到退出事件
         // input
         processInput(window);
+        glClearColor(0.2f, 0.3f, 0.3f, 1.0f);
+        glClear(GL_COLOR_BUFFER_BIT);
+
+        glBindTexture(GL_TEXTURE_2D, texture);
+        ourShader.use();
+        glBindVertexArray(VAO);
+        glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0);
         // glfw
         glfwSwapBuffers(window);//交换颜色缓冲
         glfwPollEvents();//触发键盘鼠标事件，更新窗口状态
     }
+    glDeleteVertexArrays(1, &VAO);
+    glDeleteBuffers(1, &VBO);
+    glDeleteBuffers(1, &EBO);
     // 清除所有之前分配的glfw资源
     glfwTerminate();
 
