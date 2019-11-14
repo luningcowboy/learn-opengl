@@ -1,4 +1,5 @@
 #!/bin/bash
-cmake .
+cd build
+cmake ../
 make
 ./main
