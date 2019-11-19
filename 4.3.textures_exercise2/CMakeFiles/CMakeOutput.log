@@ -28,30 +28,30 @@ The CXX compiler identification is AppleClang, found in "/Users/tu/self/learn/le
 Determining if the C compiler works passed with the following output:
 Change Dir: /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_b9dc3/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_b9dc3.dir/build.make CMakeFiles/cmTC_b9dc3.dir/build
-Building C object CMakeFiles/cmTC_b9dc3.dir/testCCompiler.c.o
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_b9dc3.dir/testCCompiler.c.o   -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_b9dc3
-/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b9dc3.dir/link.txt --verbose=1
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib  CMakeFiles/cmTC_b9dc3.dir/testCCompiler.c.o  -o cmTC_b9dc3 
+Run Build Command:"/usr/bin/make" "cmTC_578a9/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_578a9.dir/build.make CMakeFiles/cmTC_578a9.dir/build
+Building C object CMakeFiles/cmTC_578a9.dir/testCCompiler.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_578a9.dir/testCCompiler.c.o   -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_578a9
+/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_578a9.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib  CMakeFiles/cmTC_578a9.dir/testCCompiler.c.o  -o cmTC_578a9 
 
 
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_b58f3/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_b58f3.dir/build.make CMakeFiles/cmTC_b58f3.dir/build
-Building C object CMakeFiles/cmTC_b58f3.dir/CMakeCCompilerABI.c.o
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_b58f3.dir/CMakeCCompilerABI.c.o   -c /usr/local/Cellar/cmake/3.12.1/share/cmake/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_b58f3
-/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b58f3.dir/link.txt --verbose=1
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib -v -Wl,-v CMakeFiles/cmTC_b58f3.dir/CMakeCCompilerABI.c.o  -o cmTC_b58f3 
+Run Build Command:"/usr/bin/make" "cmTC_04d79/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_04d79.dir/build.make CMakeFiles/cmTC_04d79.dir/build
+Building C object CMakeFiles/cmTC_04d79.dir/CMakeCCompilerABI.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_04d79.dir/CMakeCCompilerABI.c.o   -c /usr/local/Cellar/cmake/3.12.1/share/cmake/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_04d79
+/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_04d79.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib -v -Wl,-v CMakeFiles/cmTC_04d79.dir/CMakeCCompilerABI.c.o  -o cmTC_04d79 
 Apple clang version 11.0.0 (clang-1100.0.33.8)
 Target: x86_64-apple-darwin19.0.0
 Thread model: posix
 InstalledDir: /Library/Developer/CommandLineTools/usr/bin
- "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o cmTC_b58f3 -L/usr/local/opt/gettext/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_b58f3.dir/CMakeCCompilerABI.c.o -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a
+ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o cmTC_04d79 -L/usr/local/opt/gettext/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_04d79.dir/CMakeCCompilerABI.c.o -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a
 @(#)PROGRAM:ld  PROJECT:ld64-512.4
 BUILD 05:06:53 Aug 16 2019
 configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
@@ -66,18 +66,18 @@ Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_b58f3/fast"]
-  ignore line: [/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_b58f3.dir/build.make CMakeFiles/cmTC_b58f3.dir/build]
-  ignore line: [Building C object CMakeFiles/cmTC_b58f3.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_b58f3.dir/CMakeCCompilerABI.c.o   -c /usr/local/Cellar/cmake/3.12.1/share/cmake/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_b58f3]
-  ignore line: [/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b58f3.dir/link.txt --verbose=1]
-  ignore line: [/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib -v -Wl,-v CMakeFiles/cmTC_b58f3.dir/CMakeCCompilerABI.c.o  -o cmTC_b58f3 ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_04d79/fast"]
+  ignore line: [/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_04d79.dir/build.make CMakeFiles/cmTC_04d79.dir/build]
+  ignore line: [Building C object CMakeFiles/cmTC_04d79.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_04d79.dir/CMakeCCompilerABI.c.o   -c /usr/local/Cellar/cmake/3.12.1/share/cmake/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_04d79]
+  ignore line: [/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_04d79.dir/link.txt --verbose=1]
+  ignore line: [/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib -v -Wl,-v CMakeFiles/cmTC_04d79.dir/CMakeCCompilerABI.c.o  -o cmTC_04d79 ]
   ignore line: [Apple clang version 11.0.0 (clang-1100.0.33.8)]
   ignore line: [Target: x86_64-apple-darwin19.0.0]
   ignore line: [Thread model: posix]
   ignore line: [InstalledDir: /Library/Developer/CommandLineTools/usr/bin]
-  link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o cmTC_b58f3 -L/usr/local/opt/gettext/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_b58f3.dir/CMakeCCompilerABI.c.o -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a]
+  link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o cmTC_04d79 -L/usr/local/opt/gettext/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_04d79.dir/CMakeCCompilerABI.c.o -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a]
     arg [/Library/Developer/CommandLineTools/usr/bin/ld] ==> ignore
     arg [-demangle] ==> ignore
     arg [-lto_library] ==> ignore, skip following value
@@ -90,12 +90,12 @@ Parsed C implicit link information from above output:
     arg [-syslibroot] ==> ignore
     arg [/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_b58f3] ==> ignore
+    arg [cmTC_04d79] ==> ignore
     arg [-L/usr/local/opt/gettext/lib] ==> dir [/usr/local/opt/gettext/lib]
     arg [-search_paths_first] ==> ignore
     arg [-headerpad_max_install_names] ==> ignore
     arg [-v] ==> ignore
-    arg [CMakeFiles/cmTC_b58f3.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_04d79.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lSystem] ==> lib [System]
     arg [/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a] ==> lib [/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a]
   Library search paths: [;/usr/local/opt/gettext/lib;/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/lib]
@@ -116,13 +116,13 @@ Parsed C implicit link information from above output:
 Detecting C [-std=c11] compiler features compiled with the following output:
 Change Dir: /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_e82d3/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_e82d3.dir/build.make CMakeFiles/cmTC_e82d3.dir/build
-Building C object CMakeFiles/cmTC_e82d3.dir/feature_tests.c.o
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c11 -o CMakeFiles/cmTC_e82d3.dir/feature_tests.c.o   -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/feature_tests.c
-Linking C executable cmTC_e82d3
-/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e82d3.dir/link.txt --verbose=1
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib  CMakeFiles/cmTC_e82d3.dir/feature_tests.c.o  -o cmTC_e82d3 
+Run Build Command:"/usr/bin/make" "cmTC_13c5a/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_13c5a.dir/build.make CMakeFiles/cmTC_13c5a.dir/build
+Building C object CMakeFiles/cmTC_13c5a.dir/feature_tests.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c11 -o CMakeFiles/cmTC_13c5a.dir/feature_tests.c.o   -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/feature_tests.c
+Linking C executable cmTC_13c5a
+/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_13c5a.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib  CMakeFiles/cmTC_13c5a.dir/feature_tests.c.o  -o cmTC_13c5a 
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -134,13 +134,13 @@ Linking C executable cmTC_e82d3
 Detecting C [-std=c99] compiler features compiled with the following output:
 Change Dir: /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_1f0bd/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_1f0bd.dir/build.make CMakeFiles/cmTC_1f0bd.dir/build
-Building C object CMakeFiles/cmTC_1f0bd.dir/feature_tests.c.o
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c99 -o CMakeFiles/cmTC_1f0bd.dir/feature_tests.c.o   -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/feature_tests.c
-Linking C executable cmTC_1f0bd
-/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1f0bd.dir/link.txt --verbose=1
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib  CMakeFiles/cmTC_1f0bd.dir/feature_tests.c.o  -o cmTC_1f0bd 
+Run Build Command:"/usr/bin/make" "cmTC_9ada6/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_9ada6.dir/build.make CMakeFiles/cmTC_9ada6.dir/build
+Building C object CMakeFiles/cmTC_9ada6.dir/feature_tests.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c99 -o CMakeFiles/cmTC_9ada6.dir/feature_tests.c.o   -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/feature_tests.c
+Linking C executable cmTC_9ada6
+/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9ada6.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib  CMakeFiles/cmTC_9ada6.dir/feature_tests.c.o  -o cmTC_9ada6 
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -152,13 +152,13 @@ Linking C executable cmTC_1f0bd
 Detecting C [-std=c90] compiler features compiled with the following output:
 Change Dir: /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_91e79/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_91e79.dir/build.make CMakeFiles/cmTC_91e79.dir/build
-Building C object CMakeFiles/cmTC_91e79.dir/feature_tests.c.o
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c90 -o CMakeFiles/cmTC_91e79.dir/feature_tests.c.o   -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/feature_tests.c
-Linking C executable cmTC_91e79
-/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_91e79.dir/link.txt --verbose=1
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib  CMakeFiles/cmTC_91e79.dir/feature_tests.c.o  -o cmTC_91e79 
+Run Build Command:"/usr/bin/make" "cmTC_15f43/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_15f43.dir/build.make CMakeFiles/cmTC_15f43.dir/build
+Building C object CMakeFiles/cmTC_15f43.dir/feature_tests.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c90 -o CMakeFiles/cmTC_15f43.dir/feature_tests.c.o   -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/feature_tests.c
+Linking C executable cmTC_15f43
+/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_15f43.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib  CMakeFiles/cmTC_15f43.dir/feature_tests.c.o  -o cmTC_15f43 
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -168,30 +168,30 @@ Linking C executable cmTC_91e79
 Determining if the CXX compiler works passed with the following output:
 Change Dir: /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_b77c8/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_b77c8.dir/build.make CMakeFiles/cmTC_b77c8.dir/build
-Building CXX object CMakeFiles/cmTC_b77c8.dir/testCXXCompiler.cxx.o
-/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_b77c8.dir/testCXXCompiler.cxx.o -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_b77c8
-/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b77c8.dir/link.txt --verbose=1
-/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib  CMakeFiles/cmTC_b77c8.dir/testCXXCompiler.cxx.o  -o cmTC_b77c8 
+Run Build Command:"/usr/bin/make" "cmTC_4810d/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_4810d.dir/build.make CMakeFiles/cmTC_4810d.dir/build
+Building CXX object CMakeFiles/cmTC_4810d.dir/testCXXCompiler.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_4810d.dir/testCXXCompiler.cxx.o -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_4810d
+/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4810d.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib  CMakeFiles/cmTC_4810d.dir/testCXXCompiler.cxx.o  -o cmTC_4810d 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_c3e40/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_c3e40.dir/build.make CMakeFiles/cmTC_c3e40.dir/build
-Building CXX object CMakeFiles/cmTC_c3e40.dir/CMakeCXXCompilerABI.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_c3e40.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/Cellar/cmake/3.12.1/share/cmake/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_c3e40
-/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c3e40.dir/link.txt --verbose=1
-/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib -v -Wl,-v CMakeFiles/cmTC_c3e40.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_c3e40 
+Run Build Command:"/usr/bin/make" "cmTC_16328/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_16328.dir/build.make CMakeFiles/cmTC_16328.dir/build
+Building CXX object CMakeFiles/cmTC_16328.dir/CMakeCXXCompilerABI.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_16328.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/Cellar/cmake/3.12.1/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_16328
+/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_16328.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib -v -Wl,-v CMakeFiles/cmTC_16328.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_16328 
 Apple clang version 11.0.0 (clang-1100.0.33.8)
 Target: x86_64-apple-darwin19.0.0
 Thread model: posix
 InstalledDir: /Library/Developer/CommandLineTools/usr/bin
- "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o cmTC_c3e40 -L/usr/local/opt/gettext/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_c3e40.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a
+ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o cmTC_16328 -L/usr/local/opt/gettext/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_16328.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a
 @(#)PROGRAM:ld  PROJECT:ld64-512.4
 BUILD 05:06:53 Aug 16 2019
 configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
@@ -206,18 +206,18 @@ Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_c3e40/fast"]
-  ignore line: [/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_c3e40.dir/build.make CMakeFiles/cmTC_c3e40.dir/build]
-  ignore line: [Building CXX object CMakeFiles/cmTC_c3e40.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_c3e40.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/Cellar/cmake/3.12.1/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_c3e40]
-  ignore line: [/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c3e40.dir/link.txt --verbose=1]
-  ignore line: [/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib -v -Wl,-v CMakeFiles/cmTC_c3e40.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_c3e40 ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_16328/fast"]
+  ignore line: [/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_16328.dir/build.make CMakeFiles/cmTC_16328.dir/build]
+  ignore line: [Building CXX object CMakeFiles/cmTC_16328.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_16328.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/Cellar/cmake/3.12.1/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_16328]
+  ignore line: [/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_16328.dir/link.txt --verbose=1]
+  ignore line: [/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib -v -Wl,-v CMakeFiles/cmTC_16328.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_16328 ]
   ignore line: [Apple clang version 11.0.0 (clang-1100.0.33.8)]
   ignore line: [Target: x86_64-apple-darwin19.0.0]
   ignore line: [Thread model: posix]
   ignore line: [InstalledDir: /Library/Developer/CommandLineTools/usr/bin]
-  link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o cmTC_c3e40 -L/usr/local/opt/gettext/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_c3e40.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a]
+  link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.15.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o cmTC_16328 -L/usr/local/opt/gettext/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_16328.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a]
     arg [/Library/Developer/CommandLineTools/usr/bin/ld] ==> ignore
     arg [-demangle] ==> ignore
     arg [-lto_library] ==> ignore, skip following value
@@ -230,12 +230,12 @@ Parsed CXX implicit link information from above output:
     arg [-syslibroot] ==> ignore
     arg [/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_c3e40] ==> ignore
+    arg [cmTC_16328] ==> ignore
     arg [-L/usr/local/opt/gettext/lib] ==> dir [/usr/local/opt/gettext/lib]
     arg [-search_paths_first] ==> ignore
     arg [-headerpad_max_install_names] ==> ignore
     arg [-v] ==> ignore
-    arg [CMakeFiles/cmTC_c3e40.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_16328.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lc++] ==> lib [c++]
     arg [-lSystem] ==> lib [System]
     arg [/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a] ==> lib [/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.osx.a]
@@ -257,13 +257,13 @@ Parsed CXX implicit link information from above output:
 Detecting CXX [-std=c++1z] compiler features compiled with the following output:
 Change Dir: /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_b89d5/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_b89d5.dir/build.make CMakeFiles/cmTC_b89d5.dir/build
-Building CXX object CMakeFiles/cmTC_b89d5.dir/feature_tests.cxx.o
-/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++1z -o CMakeFiles/cmTC_b89d5.dir/feature_tests.cxx.o -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_b89d5
-/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b89d5.dir/link.txt --verbose=1
-/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib  CMakeFiles/cmTC_b89d5.dir/feature_tests.cxx.o  -o cmTC_b89d5 
+Run Build Command:"/usr/bin/make" "cmTC_f428b/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_f428b.dir/build.make CMakeFiles/cmTC_f428b.dir/build
+Building CXX object CMakeFiles/cmTC_f428b.dir/feature_tests.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++1z -o CMakeFiles/cmTC_f428b.dir/feature_tests.cxx.o -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_f428b
+/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f428b.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib  CMakeFiles/cmTC_f428b.dir/feature_tests.cxx.o  -o cmTC_f428b 
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -328,13 +328,13 @@ Linking CXX executable cmTC_b89d5
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
 Change Dir: /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_08d5a/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_08d5a.dir/build.make CMakeFiles/cmTC_08d5a.dir/build
-Building CXX object CMakeFiles/cmTC_08d5a.dir/feature_tests.cxx.o
-/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++14 -o CMakeFiles/cmTC_08d5a.dir/feature_tests.cxx.o -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_08d5a
-/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_08d5a.dir/link.txt --verbose=1
-/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib  CMakeFiles/cmTC_08d5a.dir/feature_tests.cxx.o  -o cmTC_08d5a 
+Run Build Command:"/usr/bin/make" "cmTC_ff5af/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_ff5af.dir/build.make CMakeFiles/cmTC_ff5af.dir/build
+Building CXX object CMakeFiles/cmTC_ff5af.dir/feature_tests.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++14 -o CMakeFiles/cmTC_ff5af.dir/feature_tests.cxx.o -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_ff5af
+/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ff5af.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib  CMakeFiles/cmTC_ff5af.dir/feature_tests.cxx.o  -o cmTC_ff5af 
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -399,13 +399,13 @@ Linking CXX executable cmTC_08d5a
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
 Change Dir: /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_05cf7/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_05cf7.dir/build.make CMakeFiles/cmTC_05cf7.dir/build
-Building CXX object CMakeFiles/cmTC_05cf7.dir/feature_tests.cxx.o
-/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/cmTC_05cf7.dir/feature_tests.cxx.o -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_05cf7
-/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_05cf7.dir/link.txt --verbose=1
-/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib  CMakeFiles/cmTC_05cf7.dir/feature_tests.cxx.o  -o cmTC_05cf7 
+Run Build Command:"/usr/bin/make" "cmTC_b6748/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_b6748.dir/build.make CMakeFiles/cmTC_b6748.dir/build
+Building CXX object CMakeFiles/cmTC_b6748.dir/feature_tests.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++11 -o CMakeFiles/cmTC_b6748.dir/feature_tests.cxx.o -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_b6748
+/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b6748.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib  CMakeFiles/cmTC_b6748.dir/feature_tests.cxx.o  -o cmTC_b6748 
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -470,13 +470,13 @@ Linking CXX executable cmTC_05cf7
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
 Change Dir: /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_cb05c/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_cb05c.dir/build.make CMakeFiles/cmTC_cb05c.dir/build
-Building CXX object CMakeFiles/cmTC_cb05c.dir/feature_tests.cxx.o
-/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++98 -o CMakeFiles/cmTC_cb05c.dir/feature_tests.cxx.o -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_cb05c
-/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cb05c.dir/link.txt --verbose=1
-/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib  CMakeFiles/cmTC_cb05c.dir/feature_tests.cxx.o  -o cmTC_cb05c 
+Run Build Command:"/usr/bin/make" "cmTC_08a1a/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_08a1a.dir/build.make CMakeFiles/cmTC_08a1a.dir/build
+Building CXX object CMakeFiles/cmTC_08a1a.dir/feature_tests.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -std=c++98 -o CMakeFiles/cmTC_08a1a.dir/feature_tests.cxx.o -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_08a1a
+/usr/local/Cellar/cmake/3.12.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_08a1a.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/c++    -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/gettext/lib  CMakeFiles/cmTC_08a1a.dir/feature_tests.cxx.o  -o cmTC_08a1a 
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers

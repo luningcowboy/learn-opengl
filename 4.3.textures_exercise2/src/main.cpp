@@ -33,6 +33,13 @@ int main(){
     glfwMakeContextCurrent(window);
     //窗口大小调整的时候回调
     glfwSetFramebufferSizeCallback(window, framebuffer_size_callback);
+    // glad: load all OpenGL function pointers
+    // ---------------------------------------
+    if (!gladLoadGLLoader((GLADloadproc)glfwGetProcAddress))
+    {
+        std::cout << "Failed to initialize GLAD" << std::endl;
+        return -1;
+    }
 
     Shader ourShader("./src/texture.vs", "./src/texture.fs");
     float vertices[] = {

@@ -68,8 +68,8 @@ CMAKE_BINARY_DIR = /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_ex
 # Target rules for target CMakeFiles/main.dir
 
 # All Build rule for target.
-CMakeFiles/main.dir/all: CMakeFiles/STB_IMAGE.dir/all
 CMakeFiles/main.dir/all: CMakeFiles/GLAD.dir/all
+CMakeFiles/main.dir/all: CMakeFiles/STB_IMAGE.dir/all
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/depend
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.3.textures_exercise2/CMakeFiles --progress-num=5,6 "Built target main"
