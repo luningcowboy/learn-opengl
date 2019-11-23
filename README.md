@@ -31,4 +31,7 @@ make
 |3.1.shader_uniform| ✅ |
 |3.2.shaders_interpolation| ✅ |
 |3.3.shader_class| ✅ |
+|4.1.textures| ✅ |
+|4.2.textures_combined| ✅ |
+|4.3.textures_exercise2| ✅ |
 
