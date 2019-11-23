@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.4.textures_exercise3",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/System/Library/Frameworks -I/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.4.textures_exercise3/configuration -I/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.4.textures_exercise3/includes  -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/main.dir/src/main.cpp.o -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.4.textures_exercise3/src/main.cpp",
+  "file": "/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.4.textures_exercise3/src/main.cpp"
+},
+{
+  "directory": "/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.4.textures_exercise3",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/System/Library/Frameworks -I/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.4.textures_exercise3/configuration -I/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.4.textures_exercise3/includes  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/GLAD.dir/src/glad.c.o   -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.4.textures_exercise3/src/glad.c",
+  "file": "/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.4.textures_exercise3/src/glad.c"
+},
+{
+  "directory": "/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.4.textures_exercise3",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -I/System/Library/Frameworks -I/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.4.textures_exercise3/configuration -I/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.4.textures_exercise3/includes  -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/STB_IMAGE.dir/src/stb_image.cpp.o -c /Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.4.textures_exercise3/src/stb_image.cpp",
+  "file": "/Users/tu/self/learn/learn-opengl/OpenGL-Tuto/4.4.textures_exercise3/src/stb_image.cpp"
+}
+]
